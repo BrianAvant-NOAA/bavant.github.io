@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/NanoImpact Graphical Abstract.png'>"
+title: "Nanomaterials"
+excerpt: "Research related to nanomaterial fate and transport<br/><img src='/images/NanoImpact Graphical Abstract.png'>"
 collection: portfolio
 ---
 
