@@ -8,5 +8,5 @@ date: 2009-08-15
 location: "Athens, Georgia"
 ---
 
-•	Soils and Hydrology lab	
-•	Gave lectures, graded assignments and coordinated field trips
+* Soils and Hydrology lab	
+* Gave lectures, graded assignments and coordinated field trips
