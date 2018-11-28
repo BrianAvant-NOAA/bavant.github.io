@@ -8,4 +8,4 @@ date: 2009-06-01
 location: "Oakwood, Georgia"
 ---
 
-•	Prepared labs for introductory biology courses
+* Prepared labs for introductory biology courses
