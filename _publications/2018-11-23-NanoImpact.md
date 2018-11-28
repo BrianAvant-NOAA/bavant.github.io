@@ -1,0 +1,13 @@
+---
+title: "Environmental fate of multiwalled carbon nanotubes and graphene oxide across different aquatic ecosystems"
+collection: publications
+permalink: /publication/2018-11-23-NanoImpact
+excerpt: ''
+date: 2018-11-23
+venue: 'NanoImpact'
+paperurl: 'https://doi.org/10.1016/j.impact.2018.11.001'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>NanoImpact</i>.'
+---
+The industrial use and widespread application of carbon-based nanomaterials have caused a rapid increase in their production over the last decades. However, toxicity of these materials is not fully known and is still being investigated for potential human and ecological health risks. Detecting carbon-based nanomaterials in the environment using current analytical methods is problematic, making environmental fate and transport modeling a practical way to estimate environmental concentrations and assess potential ecological risks. The Water Quality Analysis Simulation Program 8 (WASP8) is a dynamic, spatially resolved fate and transport model for simulating exposure concentrations in surface waters and sediments. Recently, WASP has been updated to incorporate processes for simulating the fate and transport of nanomaterials including heteroaggregation and phototransformation. This study examines the fate and transport of multiwalled carbon nanotubes (MWCNT), graphene oxide (GO) and reduced graphene oxide (rGO) in four aquatic ecosystems in the southeastern United States. Sites include a seepage lake, a coastal plains river, a piedmont river and an unstratified, wetland lake. A hypothetical 50-year release is simulated for each site-nanomaterial pair to analyze nanomaterial distribution between the water column and sediments. For all nanomaterials, 99% of the mass loaded moves though systems of high and low residence times without being heteroaggregated and deposited in the sediments. However, significant accumulation in the sediments does occur over longer periods of time. Results show that GO and rGO had the highest mass fraction in the water column of all four sites. MWCNT were found predominantly in the sediments of the piedmont river and seepage lake but were almost entirely contained in the water column of the coastal plains river and wetland lake. Simulated recovery periods following the release estimate 37+ years for lakes and 1–4 years for rivers to reduce sediment nanomaterial concentrations by 50% suggesting that carbon-based nanomaterials have the potential for long-term ecological effects.
+
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
