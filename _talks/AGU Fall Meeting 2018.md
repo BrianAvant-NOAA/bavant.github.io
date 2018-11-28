@@ -1,9 +1,9 @@
 ---
 title: "Simulating the Fate and Transport of Carbon-based Nanomaterials Across Different Aquatic Ecosystems"
 collection: talks
-type: "Talk"
+type: "Oral"
 permalink: /talks/AGU Fall Meeting 2018
-venue: "Walter E. Washington Convention Center"
+venue: "AGU Fall Meeting"
 date: 2018-12-10
 location: "Washington D.C."
 ---
