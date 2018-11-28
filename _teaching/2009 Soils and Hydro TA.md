@@ -1,5 +1,5 @@
 ---
-title: "Soils and Hydrology Course"
+title: "Soils and Hydrology Course Teaching Assistant"
 collection: teaching
 type: "Teaching Assistant/Laboratory Instructor"
 permalink: /teaching/2009 Soils and Hydro TA
