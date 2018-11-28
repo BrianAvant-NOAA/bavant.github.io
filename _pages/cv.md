@@ -25,7 +25,7 @@ Skills
 * Model sensitivity evaluation and uncertainty analysis
 * Highly motivated and focused; able to work well individually or within a team
 
-Professional experience
+Professional Experience
 ======
 * ORISE Fellowship, U.S. Environmental Protection Agency, Office of Research and Development, October 2016-Present
   * Investigation of the fate and transport of nanomaterials in various aquatic ecosystems (see publications)
