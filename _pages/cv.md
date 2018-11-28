@@ -67,12 +67,16 @@ Professional experience
   * Produced a canopy height model from LIDAR data to classify land use with object-based image analysis
 
 
-Publications
+Journal Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Reports and Proceedings Papers
+======
+coming soon
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -85,6 +89,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
