@@ -31,7 +31,7 @@ Professional Experience
   * Investigation of the fate and transport of nanomaterials in various aquatic ecosystems (see publications)
   * Contributed to the verification of the Water-quality Analysis Simulation Program (WASP), version 8, Advanced Toxicant module algorithms (QAQC), wrote technical guides and user’s manual
   * Developed hydrologic tools in Python (flow routing algorithms) for micro services web application
-  * Developed [water quality screening tool](https://github.com/quanted/wq_screen) to evaluate water samples against relevant criteria 
+  * Developed water quality screening <span style="color:blue">[tool](https://github.com/quanted/wq_screen)</span> to evaluate water samples against relevant criteria 
 
 * Student Services Contractor, U.S. Environmental Protection Agency, Office of Research and Development, February 2015-September 2016
   * Tested new nanochemical state variable module of WASP8 using analytical solutions 
@@ -75,14 +75,14 @@ Journal Publications
 
 Reports and Proceedings Papers
 ======
-* Sitterson, J., C.D. Knightes, B. Avant. (2018). Flow Routing Techniques for Environmental Modeling. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-17/482. <span style="color:blue">[Link]</span>(https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=342907&Lab=NERL)
+* Sitterson, J., C.D. Knightes, B. Avant. (2018). Flow Routing Techniques for Environmental Modeling. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-17/482. <span style="color:blue">[Link](https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=342907&Lab=NERL)</span>
 * Sitterson, J., C.D. Knightes, R. Parmar, K. Wolfe, M. Muche, B. Avant. (2017). An Overview of Rainfall-Runoff Model Types. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-17/482. <span style="color:blue">[Link](https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=339328&Lab=NERL)</span>
-* Sitterson, J., C.D. Knightes, R. Parmar, K. Wolfe, B. Avant, A. Ignatius, D. Smith. (2017). A Survey of Precipitation Data for Environmental Modeling. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-17/441. [Link](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NERL&dirEntryId=339606)
-* Ambrose, B., B. Avant, Y. Han, C.D. Knightes, T. Wool. (2017). Water Quality Assessment Simulation Program (WASP8): Upgrades to the Advanced Toxicant Module for Simulating Dissolved Chemicals, Nanomaterials, and Solids. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-17/326. [Link](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NERL&dirEntryId=338180)
-* Avant, B., Knightes, C., Bouchard, D., Chang, X., Henderson, M., Zepp, R. (2017). Modeling Engineered Nanomaterials (ENMs) Fate and Transport in Aquatic Ecosystems. Proceedings of the 2017 Georgia Water Resources Conference. Athens, GA, April. [Link](http://gwri.gatech.edu/sites/default/files/files/docs/2017/avantknightesbouchardchanghendersonzeppgwrc2017.pdf)
-* US EPA. (2017). Analysis of the Transport and Fate of Metals Released from the Gold King Mine in the Animas and San Juan Rivers. Office of Research and Development. Athens, GA. EPA/600/R16/296. [Link](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NERL&dirEntryID=325950)
-* Avant, B., (2013). Comparison of Input Precipitation Sources in Streamflow Forecasting. Master’s Thesis. Daniel B. Warnell School of Forestry and Natural Resources. University of Georgia, United States. [Link](https://getd.libs.uga.edu/pdfs/avant_brian_k_201312_ms.pdf)
-* Avant, B., A. Ignatius, T. Rasmussen, A. Grundstein, T. Mote, J. Shepherd. (2011). Coupling Tritium Release Data with Remotely Sensed Precipitation Data to Assess Model Uncertainties. Proceedings of the 2011 Georgia Water Resources Conference. Athens, GA, April. [Link](http://hdl.handle.net/1853/46461)
+* Sitterson, J., C.D. Knightes, R. Parmar, K. Wolfe, B. Avant, A. Ignatius, D. Smith. (2017). A Survey of Precipitation Data for Environmental Modeling. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-17/441. <span style="color:blue">[Link](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NERL&dirEntryId=339606)</span>
+* Ambrose, B., B. Avant, Y. Han, C.D. Knightes, T. Wool. (2017). Water Quality Assessment Simulation Program (WASP8): Upgrades to the Advanced Toxicant Module for Simulating Dissolved Chemicals, Nanomaterials, and Solids. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-17/326. <span style="color:blue">[Link](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NERL&dirEntryId=338180)</span>
+* Avant, B., Knightes, C., Bouchard, D., Chang, X., Henderson, M., Zepp, R. (2017). Modeling Engineered Nanomaterials (ENMs) Fate and Transport in Aquatic Ecosystems. Proceedings of the 2017 Georgia Water Resources Conference. Athens, GA, April. <span style="color:blue">[Link](http://gwri.gatech.edu/sites/default/files/files/docs/2017/avantknightesbouchardchanghendersonzeppgwrc2017.pdf)</span>
+* US EPA. (2017). Analysis of the Transport and Fate of Metals Released from the Gold King Mine in the Animas and San Juan Rivers. Office of Research and Development. Athens, GA. EPA/600/R16/296. <span style="color:blue">[Link](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NERL&dirEntryID=325950)</span>
+* Avant, B., (2013). Comparison of Input Precipitation Sources in Streamflow Forecasting. Master’s Thesis. Daniel B. Warnell School of Forestry and Natural Resources. University of Georgia, United States. <span style="color:blue">[Link](https://getd.libs.uga.edu/pdfs/avant_brian_k_201312_ms.pdf)</span>
+* Avant, B., A. Ignatius, T. Rasmussen, A. Grundstein, T. Mote, J. Shepherd. (2011). Coupling Tritium Release Data with Remotely Sensed Precipitation Data to Assess Model Uncertainties. Proceedings of the 2011 Georgia Water Resources Conference. Athens, GA, April. <span style="color:blue">[Link](http://hdl.handle.net/1853/46461)</span>
 
 Talks
 ======
