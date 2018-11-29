@@ -75,14 +75,14 @@ Journal Publications
 
 Reports and Proceedings Papers
 ======
-* Sitterson, J., C.D. Knightes, B. Avant. (2018). Flow Routing Techniques for Environmental Modeling. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-17/482.
-* Sitterson, J., C.D. Knightes, R. Parmar, K. Wolfe, M. Muche, B. Avant. (2017). An Overview of Rainfall-Runoff Model Types. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-17/482.
-* Sitterson, J., C.D. Knightes, R. Parmar, K. Wolfe, B. Avant, A. Ignatius, D. Smith. (2017). A Survey of Precipitation Data for Environmental Modeling. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-17/441.
-* Ambrose, B., B. Avant, Y. Han, C.D. Knightes, T. Wool. (2017). Water Quality Assessment Simulation Program (WASP8): Upgrades to the Advanced Toxicant Module for Simulating Dissolved Chemicals, Nanomaterials, and Solids. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-17/326
-* Avant, B., Knightes, C., Bouchard, D., Chang, X., Henderson, M., Zepp, R. (2017). Modeling Engineered Nanomaterials (ENMs) Fate and Transport in Aquatic Ecosystems. Proceedings of the 2017 Georgia Water Resources Conference. Athens, GA, April.
-* US EPA. (2017). Analysis of the Transport and Fate of Metals Released from the Gold King Mine in the Animas and San Juan Rivers. Office of Research and Development. Athens, GA. EPA/600/R16/296
-* Avant, B., (2013). Comparison of Input Precipitation Sources in Streamflow Forecasting. Master’s Thesis. Daniel B. Warnell School of Forestry and Natural Resources. University of Georgia, United States
-* Avant, B., A. Ignatius, T. Rasmussen, A. Grundstein, T. Mote, J. Shepherd. (2011). Coupling Tritium Release Data with Remotely Sensed Precipitation Data to Assess Model Uncertainties. Proceedings of the 2011 Georgia Water Resources Conference. Athens, GA, April.
+* Sitterson, J., C.D. Knightes, B. Avant. (2018). Flow Routing Techniques for Environmental Modeling. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-17/482.[Link](https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=342907&Lab=NERL)
+* Sitterson, J., C.D. Knightes, R. Parmar, K. Wolfe, M. Muche, B. Avant. (2017). An Overview of Rainfall-Runoff Model Types. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-17/482. [Link](https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=339328&Lab=NERL)
+* Sitterson, J., C.D. Knightes, R. Parmar, K. Wolfe, B. Avant, A. Ignatius, D. Smith. (2017). A Survey of Precipitation Data for Environmental Modeling. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-17/441. [Link](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NERL&dirEntryId=339606)
+* Ambrose, B., B. Avant, Y. Han, C.D. Knightes, T. Wool. (2017). Water Quality Assessment Simulation Program (WASP8): Upgrades to the Advanced Toxicant Module for Simulating Dissolved Chemicals, Nanomaterials, and Solids. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-17/326. [Link](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NERL&dirEntryId=338180)
+* Avant, B., Knightes, C., Bouchard, D., Chang, X., Henderson, M., Zepp, R. (2017). Modeling Engineered Nanomaterials (ENMs) Fate and Transport in Aquatic Ecosystems. Proceedings of the 2017 Georgia Water Resources Conference. Athens, GA, April. [Link](http://gwri.gatech.edu/sites/default/files/files/docs/2017/avantknightesbouchardchanghendersonzeppgwrc2017.pdf)
+* US EPA. (2017). Analysis of the Transport and Fate of Metals Released from the Gold King Mine in the Animas and San Juan Rivers. Office of Research and Development. Athens, GA. EPA/600/R16/296. [Link](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NERL&dirEntryID=325950)
+* Avant, B., (2013). Comparison of Input Precipitation Sources in Streamflow Forecasting. Master’s Thesis. Daniel B. Warnell School of Forestry and Natural Resources. University of Georgia, United States. [Link](https://getd.libs.uga.edu/pdfs/avant_brian_k_201312_ms.pdf)
+* Avant, B., A. Ignatius, T. Rasmussen, A. Grundstein, T. Mote, J. Shepherd. (2011). Coupling Tritium Release Data with Remotely Sensed Precipitation Data to Assess Model Uncertainties. Proceedings of the 2011 Georgia Water Resources Conference. Athens, GA, April. [Link](http://hdl.handle.net/1853/46461)
 
 Talks
 ======
