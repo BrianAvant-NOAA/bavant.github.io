@@ -306,6 +306,6 @@ compress_html:
   ignore:
     envs: development
 
-theme: minimal-mistakes-jekyll # jekyll-theme-slate
-minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "default", "neon", "mint", "plum" "sunrise"
+theme: jekyll-theme-slate # minimal-mistakes-jekyll
+# minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "default", "neon", "mint", "plum" "sunrise"
 
