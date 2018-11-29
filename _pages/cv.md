@@ -31,7 +31,7 @@ Professional Experience
   * Investigation of the fate and transport of nanomaterials in various aquatic ecosystems (see publications)
   * Contributed to the verification of the Water-quality Analysis Simulation Program (WASP), version 8, Advanced Toxicant module algorithms (QAQC), wrote technical guides and user’s manual
   * Developed hydrologic tools in Python (flow routing algorithms) for micro services web application
-  * Developed water quality screening tool to evaluate water samples against relevant criteria (https://github.com/quanted/wq_screen)
+  * Developed [water quality screening tool](https://github.com/quanted/wq_screen) to evaluate water samples against relevant criteria 
 
 * Student Services Contractor, U.S. Environmental Protection Agency, Office of Research and Development, February 2015-September 2016
   * Tested new nanochemical state variable module of WASP8 using analytical solutions 
