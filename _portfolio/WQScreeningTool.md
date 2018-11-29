@@ -4,5 +4,5 @@ excerpt: "A program to screen water quality samples in reference to location-bas
 permalink: https://github.com/quanted/wq_screen
 collection: portfolio
 ---
-updated
+
 https://github.com/quanted/wq_screen
