@@ -2,6 +2,7 @@
 title: "WASP Advanced Toxicant Module Workshop"
 collection: teaching
 type: "Training Workshop"
+excerpt: ""
 permalink: /teaching/2017 WASP Advanced Toxicant Module Workshop
 venue: "EPA ORD"
 date: 2017-10-01
