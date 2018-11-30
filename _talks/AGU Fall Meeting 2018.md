@@ -7,6 +7,10 @@ venue: "AGU Fall Meeting"
 date: 2018-12-10
 location: "Washington D.C."
 ---
+
+
+
+
 [More information here](https://agu.confex.com/agu/fm18/prelim.cgi/Session/62407)
 
 Session: H12F. Fate, Transport, and Remediation of Contaminants of Emerging Concern and Their Transformation Products in the Critical Zone II
