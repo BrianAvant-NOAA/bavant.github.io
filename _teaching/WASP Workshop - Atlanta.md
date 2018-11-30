@@ -2,7 +2,7 @@
 title: "Annual WASP Workshop"
 collection: teaching
 type: "Training Workshop"
-permalink: /teaching/WASP Workshop - Atlanta
+
 venue: "EPA, Region 4"
 date: 2018-07-15
 location: "Atlanta, Georgia"
