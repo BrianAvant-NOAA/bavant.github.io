@@ -2,6 +2,7 @@
 title: "Supplemental Instructor"
 collection: teaching
 type: "Tutoring"
+excerpt: ""
 permalink: /teaching/2009 SI GSC
 venue: "Gainesville State College"
 date: 2009-01-15
