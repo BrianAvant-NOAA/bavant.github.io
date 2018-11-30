@@ -177,7 +177,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  programming:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -223,10 +223,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _programming
   - scope:
       path: ""
-      type: portfolio
+      type: programming
     values:
       layout: single
       author_profile: true
