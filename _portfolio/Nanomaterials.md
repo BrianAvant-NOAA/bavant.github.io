@@ -1,6 +1,6 @@
 ---
-title: "Nanomaterial Fate and Transport"
-excerpt: "Research related to nanomaterial fate and transport<br/><img src='/images/NanoImpact Graphical Abstract.jpg'>"
+title: "WASPr"
+excerpt: "An R toolbox for WASP8 sensitivity analysis"
 collection: portfolio
 ---
 
