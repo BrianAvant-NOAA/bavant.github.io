@@ -2,7 +2,7 @@
 title: "Environmental fate of multiwalled carbon nanotubes and graphene oxide across different aquatic ecosystems"
 collection: publications
 permalink: /publication/2018-11-23-NanoImpact
-excerpt: ''
+excerpt: "<img src='/images/NanoImpact Graphical Abstract.jpg'>"
 date: 2018-11-23
 venue: 'NanoImpact'
 paperurl: 'https://doi.org/10.1016/j.impact.2018.11.001'
