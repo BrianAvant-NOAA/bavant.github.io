@@ -2,6 +2,7 @@
 title: "Laboratory Assistant"
 collection: teaching
 type: "Teaching Assistant/Laboratory Instructor"
+excerpt: ""
 permalink: /teaching/2009 LA GSC
 venue: "Gainesville State College"
 date: 2009-06-01
