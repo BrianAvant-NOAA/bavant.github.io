@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Brian"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
