@@ -1,11 +1,11 @@
 ---
 permalink: /
 title: "About Brian"
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-...
+
