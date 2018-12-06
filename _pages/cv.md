@@ -56,7 +56,7 @@ Professional Experience
 * GIS Specialist, U.S. Forest Service, University of Georgia, PI: Dr. Todd Rasmussen, 2012 
   * Created GIS layers, maps, and technical reports following EPA’s DRASTIC protocol 
   * Developed and organized the Ground Water Vulnerability and Risk Assessment for U.S. Forest Service Southern Region lands
-  * Collaborated with a team to produce high-quality GIS products, procedure manuals, and reports
+  * Collaborated with a team to produce GIS products, procedure manuals, and reports
   
 * Research Assistant, Institute for Environmental and Spatial Analysis & Georgia Power, Gainesville State College, PI: Dr. Sudhanshu Panda, 2009-2010
   * Assisted in developing and decision support system (DSS) website using HTML and ArcGIS
