@@ -6,7 +6,7 @@ excerpt: "<img src='/images/NanoImpact Graphical Abstract sm.jpg'>"
 date: 2018-11-23
 venue: 'NanoImpact'
 paperurl: 'https://doi.org/10.1016/j.impact.2018.11.001'
-citation: 'Avant, B., Bouchard, D., Chang, X., Hsieh, H.-S., Acrey, B., Han, Y., Spear, J., Zepp, R.G., Knightes, C.D. (2018). &quot;Environmental fate of multiwalled carbon nanotubes and graphene oxide across different aquatic ecosystems.&quot; <i>NanoImpact</i>. ISSN 2452-0748.'
+citation: 'Avant, B., Bouchard, D., Chang, X., Hsieh, H.-S., Acrey, B., Han, Y., Spear, J., Zepp, R.G., Knightes, C.D. (2019). &quot;Environmental fate of multiwalled carbon nanotubes and graphene oxide across different aquatic ecosystems.&quot; <i>NanoImpact</i>. 13, 1-12.'
 ---
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.impact.2018.11.001" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
