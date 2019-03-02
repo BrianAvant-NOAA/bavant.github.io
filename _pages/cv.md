@@ -17,7 +17,7 @@ Education
 
 Skills
 ======
-* Exceptional verbal and technical report writing
+* Exceptional verbal and technical report writing skills
 * Watershed and hydrological fate and transport modeling
 * GIS data analysis using ArcGIS and other proprietary/open-source software
 * Acquisition, analysis, and management of large hydrologic and geophysical datasets
