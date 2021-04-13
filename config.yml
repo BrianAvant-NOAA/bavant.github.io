@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Brian Avant"
 title_separator          : "-"
 name                     : &name "Brian Avant"
-description              : &description "personal description"
+description              : &description "personal website"
 url                      : https://bavant84.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bavant84/bavant84.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -83,10 +83,12 @@ author:
   name             : "Brian Avant"
   avatar           : "Profile Pic-4.jpg"
   bio              : "Environmental Modeler/Data Scientist"
-  location         : "Athens, GA"
-  employer         : "ORISE - EPA ORD"
+  location         : "Tuscaloosa, AL"
+  employer         : "Lynker Technologies - NOAA NWC"
   googlescholar    : "https://scholar.google.com/citations?user=EAv_TR8AAAAJ&hl=en"
+
   email            :
+  researchgate     :  "https://www.researchgate.net/profile/Brian-Avant-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,20 +96,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bavant84"
+  github           : "brian.avant"
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      :
   lastfm           :
   linkedin         : "www.linkedin.com/in/brian-avant-02929b95"
   orcid            : "https://orcid.org/0000-0002-0986-0432"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
-  Mendeley         : "https://www.mendeley.com/profiles/brian-avant/"
+  twitter          :
+  Mendeley         : 
   weibo            :
   xing             :
   youtube          :
@@ -126,22 +129,23 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -255,7 +259,7 @@ timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_ti
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
