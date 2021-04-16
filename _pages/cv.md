@@ -17,27 +17,32 @@ Education
 
 Skills
 ======
-* Exceptional verbal and technical report writing
-* Watershed and hydrological fate and transport modeling
-* GIS data analysis using ArcGIS and other proprietary/open-source software
+* Exceptional verbal communication and technical writing
+* R, Python, and Bash programming languages on Linux/Windows
+* Flood inundation, watershed, and hydrological fate and transport modeling
+* Geospatial data/model development using open source libraries as well as ArcGIS/QGIS
 * Acquisition, analysis, and management of large hydrologic and geophysical datasets
-* R and Python programming languages
-* Model sensitivity evaluation and uncertainty analysis
+* Model sensitivity and uncertainty analysis
 * Highly motivated and focused; able to work well individually or within a team
 
 Professional Experience
 ======
-* ORISE Fellowship, U.S. Environmental Protection Agency, Office of Research and Development, October 2016-Present
-  * Investigation of the fate and transport of nanomaterials in various aquatic ecosystems (see publications)
+* Geospatial Scientist/Hydrologist, Lynker Technologies, National Water Center, June 2019-Present
+  * Develop open source flood inundation mapping (FIM) model <span style="color:blue">[cahaba repo](https://github.com/NOAA-OWP/cahaba)</span>
+  * Develop tools and workflows for model evaluation and visualization
+  * Develop geospatial hydrofabric layers to support the Next Generation National Water Model
+  
+* ORISE Fellowship, U.S. Environmental Protection Agency, Office of Research and Development, October 2016-June 2019
+  * Investigated the fate and transport of nanomaterials in various aquatic ecosystems (see publications)
   * Contributed to the verification of the Water-quality Analysis Simulation Program (WASP), version 8, Advanced Toxicant module algorithms (QAQC), wrote technical guides and user’s manual
-  * Developed hydrologic tools in Python (flow routing algorithms) for micro services web application
-  * Developed water quality screening <span style="color:blue">[tool](https://github.com/quanted/wq_screen)</span> to evaluate water samples against relevant criteria 
+  * Developed hydrologic flow routing algorithms in Python for <span style="color:blue">[Hydologic Micro Services (HMS)](https://github.com/quanted/hms)</span>
+  * Developed an R Shiny web application for water quality screening GKM samples <span style="color:blue">[tool](https://github.com/quanted/wq_screen)</span> to evaluate water samples against relevant criteria 
 
 * Student Services Contractor, U.S. Environmental Protection Agency, Office of Research and Development, February 2015-September 2016
-  * Tested new nanochemical state variable module of WASP8 using analytical solutions 
+  * Tested nanochemical state variable module of WASP8 using analytical solutions 
   * Modeled fate and transport of sediments, metals, and nanomaterials for case studies and research purposes using HSPF and WASP
   * Modeled plume dynamics of Gold King Mine release in the Animas and San Juan Rivers for U.S. EPA report (2017)
-  * Managed large datasets and performed statistical evaluations using R
+  * Managed datasets and performed statistical evaluations using R
 
 * Mudlogger, Morco Geological Services Inc., November 2013-December 2014
   * Collected and logged lithology samples for formation mapping and hydrocarbon analysis 
@@ -48,24 +53,23 @@ Professional Experience
   * Stream habitat assessments; macroinvertebrate identification and analysis
   * Electrofishing and seine net sampling
   
-* Graduate Research Assistant, Dept. Forestry and Natural Resources & Savannah River National Lab (U.S. Dept. of Energy), University of Georgia, PI: Dr. Todd Rasmussen, 2010-2013
+* Graduate Research Assistant, Dept. Forestry and Natural Resources & Savannah River National Lab (U.S. Dept. of Energy), University of Georgia, 2010-2013
   * Developed methods for streamflow prediction in ungauged basins using parameter information from calibrated gauged basins with Hydrologic Simulation Program FORTRAN (HSPF)
   * Estimated data and model uncertainty using parameter estimation (PEST) software
   * Applied statistical metrics to quantify streamflow and watershed characteristic similarities
   
-* GIS Specialist, U.S. Forest Service, University of Georgia, PI: Dr. Todd Rasmussen, 2012 
+* GIS Specialist, U.S. Forest Service, University of Georgia, 2012 
   * Created GIS layers, maps, and technical reports following EPA’s DRASTIC protocol 
   * Developed and organized the Ground Water Vulnerability and Risk Assessment for U.S. Forest Service Southern Region lands
   * Collaborated with a team to produce GIS products, procedure manuals, and reports
   
-* Research Assistant, Institute for Environmental and Spatial Analysis & Georgia Power, Gainesville State College, PI: Dr. Sudhanshu Panda, 2009-2010
+* Research Assistant, Institute for Environmental and Spatial Analysis & Georgia Power, Gainesville State College, 2009-2010
   * Assisted in developing and decision support system (DSS) website using HTML and ArcGIS
   * Created GIS layers displaying watershed descriptions and water quality data in an interactive framework
   
 * Senior Project, Institute for Environmental and Spatial Analysis, Gainesville State College, 2009-2010
   * Developed a land use map of Rocky Creek, GA to identify stream banks lacking riparian buffers
   * Produced a canopy height model from LIDAR data to classify land use with object-based image analysis
-
 
 Journal Publications
 ======
@@ -83,12 +87,6 @@ Reports and Proceedings Papers
 * US EPA. (2017). Analysis of the Transport and Fate of Metals Released from the Gold King Mine in the Animas and San Juan Rivers. Office of Research and Development. Athens, GA. <span style="color:blue"> [EPA/600/R16/296](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NERL&dirEntryID=325950)</span>. <a href="https://cfpub.epa.gov/si/si_public_file_download.cfm?p_download_id=530074&Lab=NERL"><img src="/images/pdf.jpg" style="width: 20px; height: 20px; margin-left: 1px;">
 * Avant, B., (2013). Comparison of Input Precipitation Sources in Streamflow Forecasting. Master’s Thesis. Daniel B. Warnell School of Forestry and Natural Resources. University of Georgia, United States. <a href="https://getd.libs.uga.edu/pdfs/avant_brian_k_201312_ms.pdf"><img src="/images/pdf.jpg" style="width: 20px; height: 20px; margin-left: 1px;">
 * Avant, B., A. Ignatius, T. Rasmussen, A. Grundstein, T. Mote, J. Shepherd. (2011). Coupling Tritium Release Data with Remotely Sensed Precipitation Data to Assess Model Uncertainties. <span style="color:blue"> [Proceedings of the 2011 Georgia Water Resources Conference](http://hdl.handle.net/1853/46461)</span>. Athens, GA, April. <a href="https://smartech.gatech.edu/bitstream/handle/1853/46461/Poster7.01121Avant.pdf?sequence=1&isAllowed=y"><img src="/images/pdf.jpg" style="width: 20px; height: 20px; margin-left: 1px;">
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
