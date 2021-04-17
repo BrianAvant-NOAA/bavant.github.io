@@ -36,7 +36,7 @@ Professional Experience
 * ORISE Fellowship, U.S. Environmental Protection Agency, Office of Research and Development, October 2016-June 2019
   * Investigated the fate and transport of nanomaterials in various aquatic ecosystems (see publications)
   * Contributed to the verification of the Water-quality Analysis Simulation Program (WASP), version 8, Advanced Toxicant module algorithms (QAQC), wrote technical guides and user’s manual
-  * Developed hydrologic flow routing algorithms in Python for <span style="color:blue">[Hydologic Micro Services (HMS)](https://github.com/quanted/hms)</span>
+  * Developed hydrologic flow routing algorithms in Python for <span style="color:blue">[Hydrologic Micro Services (HMS)](https://github.com/quanted/hms)</span>
   * Developed an R Shiny web application for water quality screening GKM samples <span style="color:blue">[tool](https://github.com/quanted/wq_screen)</span> to evaluate water samples against relevant criteria 
 
 * Student Services Contractor, U.S. Environmental Protection Agency, Office of Research and Development, February 2015-September 2016
