@@ -39,7 +39,7 @@ Professional Experience
   * Developed hydrologic flow routing algorithms in Python for <span style="color:blue">[Hydrologic Micro Services (HMS)](https://github.com/quanted/hms)</span>
   * Developed an R Shiny web application for water quality screening GKM samples <span style="color:blue">[tool](https://github.com/quanted/wq_screen)</span> to evaluate water samples against relevant criteria 
 
-* Student Services Contractor, U.S. Environmental Protection Agency, Office of Research and Development, February 2015-September 2016
+* Contractor, U.S. Environmental Protection Agency, Office of Research and Development, February 2015-September 2016
   * Tested nanochemical state variable module of WASP8 using analytical solutions 
   * Modeled fate and transport of sediments, metals, and nanomaterials for case studies and research purposes using HSPF and WASP
   * Modeled plume dynamics of Gold King Mine release in the Animas and San Juan Rivers for U.S. EPA report (2017)
