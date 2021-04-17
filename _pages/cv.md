@@ -20,17 +20,18 @@ Skills
 * Exceptional verbal communication and technical writing
 * R, Python, and Bash programming languages on Linux/Windows
 * Flood inundation, watershed, and hydrological fate and transport modeling
-* Geospatial data/model development using open source libraries as well as ArcGIS/QGIS
+* Geospatial data/model development using open-source libraries as well as ArcGIS/QGIS
 * Acquisition, analysis, and management of large hydrologic and geophysical datasets
 * Experience using Docker, GitHub, and Conda environments
+* Experience with Agile software development 
 * Model sensitivity and uncertainty analysis
 * Highly motivated and focused; able to work well individually or within a team
 
 Professional Experience
 ======
 * Geospatial Scientist/Hydrologist, Lynker Technologies, National Water Center, June 2019-Present
-  * Develop open source flood inundation mapping (FIM) model (<span style="color:blue">[cahaba repo](https://github.com/NOAA-OWP/cahaba)</span>)
-  * Develop tools and workflows for model evaluation and visualization
+  * Develop NOAA flood inundation mapping (FIM) model  (<span style="color:blue">[cahaba repo](https://github.com/NOAA-OWP/cahaba)</span>)
+  * Develop tools and workflows for model evaluation and visualization using open-source geospatial libraries
   * Develop geospatial hydrofabric layers to support the Next Generation National Water Model
   
 * ORISE Fellowship, U.S. Environmental Protection Agency, Office of Research and Development, October 2016-June 2019
