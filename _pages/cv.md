@@ -22,8 +22,7 @@ Skills
 * Flood inundation, watershed, and hydrological fate and transport modeling
 * Geospatial data/model development using open-source libraries as well as ArcGIS/QGIS
 * Acquisition, analysis, and management of large hydrologic and geophysical datasets
-* Experience using Docker, GitHub, and Conda environments
-* Experience with Agile software development 
+* Experience with Agile software development, Git, and Docker 
 * Model sensitivity and uncertainty analysis
 * Highly motivated and focused; able to work well individually or within a team
 
