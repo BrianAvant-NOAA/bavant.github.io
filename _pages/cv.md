@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://github.com/NOAA-OWP/cahaba" target="_blank" rel="noopener"> 
-  <span style="color:blue">cahaba repo</span>
-</a>
-
 Education
 ======
 * Geographic Information Science Certificate, Gainesville State College, 2009
@@ -33,7 +29,7 @@ Skills
 Professional Experience
 ======
 * Geospatial Scientist/Hydrologist, Lynker Technologies, National Water Center, June 2019-Present
-  * Develop NOAA flood inundation mapping (FIM) model  (<span style="color:blue">[cahaba repo](https://github.com/NOAA-OWP/cahaba)</span>)
+  * Develop NOAA flood inundation mapping (FIM) model  (<a href="https://github.com/NOAA-OWP/cahaba" target="_blank" rel="noopener"><span style="color:blue">cahaba repo</span></a>)
   * Develop tools and workflows for model evaluation and visualization using open-source geospatial libraries
   * Develop geospatial hydrofabric layers to support the Next Generation National Water Model
   
