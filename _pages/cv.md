@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://github.com/NOAA-OWP/cahaba"> 
+<a href="https://github.com/NOAA-OWP/cahaba" target="_blank" rel="noopener> 
   <span>style="color:blue">[cahaba repo]</span>
-target="_blank" rel="noopener</a>
+</a>
 
 Education
 ======
