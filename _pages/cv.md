@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://github.com/NOAA-OWP/cahaba" target="_blank" rel="noopener> 
+<a href="https://github.com/NOAA-OWP/cahaba"> 
   <span></span> <h1>cahaba repo</h1>
 </a>
 
