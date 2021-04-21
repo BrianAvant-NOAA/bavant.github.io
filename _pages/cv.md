@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <a href="https://github.com/NOAA-OWP/cahaba" target="_blank" rel="noopener> 
-  <span>style="color:blue">cahaba repo</span>
+  <span></span> <h1>cahaba repo</h1>
 </a>
 
 Education
