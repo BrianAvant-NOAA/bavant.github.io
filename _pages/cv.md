@@ -29,7 +29,7 @@ Skills
 Professional Experience
 ======
 * Geospatial Scientist/Hydrologist, Lynker Technologies, National Water Center, June 2019-Present
-  * Develop NOAA flood inundation mapping (FIM) model  (<span style="color:blue">[cahaba repo](<a href="https://github.com/NOAA-OWP/cahaba" target="_blank" rel="noopener</a>)</span>)
+  * Develop NOAA flood inundation mapping (FIM) model  (<span style="color:blue">[cahaba repo]("https://github.com/NOAA-OWP/cahaba" target="_blank" rel="noopener)</span>)
   * Develop tools and workflows for model evaluation and visualization using open-source geospatial libraries
   * Develop geospatial hydrofabric layers to support the Next Generation National Water Model
   
