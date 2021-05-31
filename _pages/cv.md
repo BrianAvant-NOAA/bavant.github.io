@@ -17,14 +17,12 @@ Education
 
 Skills
 ======
-* Exceptional verbal communication and technical writing
 * R, Python, and Bash programming languages on Linux/Windows
 * Flood inundation, watershed, and hydrological fate and transport modeling
 * Geospatial data/model development using open-source libraries as well as ArcGIS/QGIS
 * Acquisition, analysis, and management of large hydrologic and geophysical datasets
 * Experience with Agile software development, Git, and Docker 
 * Model sensitivity and uncertainty analysis
-* Highly motivated and focused; able to work well individually or within a team
 
 Professional Experience
 ======
