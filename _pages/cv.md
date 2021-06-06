@@ -17,7 +17,7 @@ Education
 
 Software Skills
 ======
-R, Python, Linux, Bash, SQL, Git, Agile, limited JavaScript and C#
+R, Python, Linux, Bash, SQL, Git, Agile, Jupyter Notebooks, limited JavaScript and C#
 
 Professional Experience
 ======
