@@ -70,6 +70,11 @@ Professional Experience
   * Developed a land use map of Rocky Creek, GA to identify stream banks lacking riparian buffers
   * Produced a canopy height model from LIDAR data to classify land use with object-based image analysis
 
+Awards
+======
+* EPA Gold Medal for Scientific Excellence (Gold King Mine Report) - 2017
+* EPA Scientific and Technological Achievement Award Nominee - 2021 (Pending Results) 
+
 Journal Publications
 ======
   <ul>{% for post in site.publications %}
