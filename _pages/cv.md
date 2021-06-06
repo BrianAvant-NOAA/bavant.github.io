@@ -15,33 +15,33 @@ Education
 * B.S. Applied Environmental Spatial Analysis, Gainesville State College, 2010
 * M.S. Forest Resources, University of Georgia, 2013
 
-Skills
+Software Skills
 ======
-* R, Python, and Bash programming languages on Linux/Windows
-* Flood inundation, watershed, and hydrological fate and transport modeling
-* Geospatial data/model development using open-source libraries as well as ArcGIS/QGIS
-* Acquisition, analysis, and management of large hydrologic and geophysical datasets
-* Experience with Agile software development, Git, and Docker 
-* Model sensitivity and uncertainty analysis
+R, Python, Linux, Bash, SQL, Git, Agile, limited JavaScript and C#
 
 Professional Experience
 ======
-* Geospatial Scientist/Hydrologist, Lynker Technologies, National Water Center, June 2019-Present
-  * Develop NOAA flood inundation mapping (FIM) model  (<a href="https://github.com/NOAA-OWP/cahaba" target="_blank" rel="noopener"><span style="color:blue">cahaba repo</span></a>)
-  * Develop tools and workflows for model evaluation and visualization using open-source geospatial libraries
-  * Develop geospatial hydrofabric layers to support the Next Generation National Water Model
+* Water Resource Engineer (Software Engineer), Lynker Technologies, National Water Center, June 2019-Present
+  * Develop NOAA’s National Flood Inundation Mapping (FIM) model (<a href="https://github.com/NOAA-OWP/cahaba" target="_blank" rel="noopener"><span style="color:blue">cahaba repo</span></a>)
+  * Collaborate in a distributed team environment using Github/Redmine and Agile software development practices
+  * Optimize and scale geospatial model pipelines using distributed systems on Linux using Bash/Python/Docker
+  * Develop custom solutions, tools, and workflows to debug and evaluate predictive models
+  * Perform calibration of FIM model
+  * Collaborate with external development teams (ESRI Arc Hydro)
+  * Libraries and software used: ArcGIS, QGIS, GDAL/OGR, Pandas/Geopandas, Rasterio, SQLite, Multiprocessing, Arcpy
   
-* ORISE Fellowship, U.S. Environmental Protection Agency, Office of Research and Development, October 2016-June 2019
-  * Investigated the fate and transport of nanomaterials in various aquatic ecosystems (see publications)
-  * Contributed to the verification of the Water-quality Analysis Simulation Program (WASP), version 8, Advanced Toxicant module algorithms (QAQC), wrote technical guides and user’s manual
+* Hydrologist (Software Developer), ORISE Fellowship - U.S. Environmental Protection Agency, Office of Research and Development, October 2016-June 2019
+  * Researched nanomaterial fate and transport in various aquatic ecosystems (see publications)
+  * Contributed to the development of Water-quality Analysis Simulation Program (WASP), version 8, Advanced Toxicant module including verification of algorithms (QAQC), technical guides and user’s manual, training workshops, and multiple peer-reviewed research papers
+  * Performed model sensitivity analysis and calibration of fate and transport models
   * Developed hydrologic flow routing algorithms in Python for <a href="https://github.com/quanted/hms" target="_blank" rel="noopener"><span style="color:blue">Hydrologic Micro Services (HMS)</span></a>
-  * Developed an R Shiny web application for water quality screening GKM samples <a href="https://github.com/quanted/wq_screen" target="_blank" rel="noopener"><span style="color:blue">tool</span></a> to evaluate water samples against relevant criteria 
+  * Developed an R Shiny web <a href="https://github.com/quanted/wq_screen" target="_blank" rel="noopener"><span style="color:blue">application</span></a> to screen water quality samples using criteria based on their location  
 
-* Contractor, U.S. Environmental Protection Agency, Office of Research and Development, February 2015-September 2016
-  * Tested nanochemical state variable module of WASP8 using analytical solutions 
+* Hydrologist/Contractor, U.S. Environmental Protection Agency, Office of Research and Development, February 2015-September 2016
+  * Tested source code of WASP8 modules using analytical solutions 
+  * Built pipelines to acquire model input data from APIs and convert to organized data structures (R)
   * Modeled fate and transport of sediments, metals, and nanomaterials for case studies and research purposes using HSPF and WASP
-  * Modeled plume dynamics of Gold King Mine release in the Animas and San Juan Rivers for U.S. EPA report (2017)
-  * Managed datasets and performed statistical evaluations using R
+  * Developed pipelines for extracting, evaluating, and visualizing model results for peer-reviewed research using R
 
 * Mudlogger, Morco Geological Services Inc., November 2013-December 2014
   * Collected and logged lithology samples for formation mapping and hydrocarbon analysis 
