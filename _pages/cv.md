@@ -26,7 +26,7 @@ Professional Experience
   * Collaborate in a distributed team environment using Github/Redmine and Agile software development practices
   * Optimize and scale geospatial model pipelines using distributed systems on Linux using Bash/Python/Docker
   * Develop custom solutions, tools, and workflows to debug and evaluate predictive models
-  * Perform calibration of FIM model
+  * Calibrate FIM model parameters
   * Collaborate with external development teams (ESRI Arc Hydro)
   * Libraries and software used: ArcGIS, QGIS, GDAL/OGR, Pandas/Geopandas, Rasterio, SQLite, Multiprocessing, Arcpy
   
