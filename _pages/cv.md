@@ -24,7 +24,7 @@ Professional Experience
 * Water Resource Engineer (Software Engineer), Lynker Technologies, National Water Center, June 2019-Present
   * Develop NOAA’s National Flood Inundation Mapping (FIM) model (<a href="https://github.com/NOAA-OWP/cahaba" target="_blank" rel="noopener"><span style="color:blue">cahaba repo</span></a>)
   * Collaborate in a distributed team environment using Github/Redmine and Agile software development practices
-  * Optimize and scale geospatial model pipelines using distributed systems on Linux using Bash/Python/Docker
+  * Optimize and scale open-source geospatial model pipelines using distributed systems on Linux using Bash/Python/Docker
   * Develop custom solutions, tools, and workflows to debug and evaluate predictive models
   * Calibrate FIM model parameters
   * Collaborate with external development teams (ESRI Arc Hydro)
@@ -39,9 +39,9 @@ Professional Experience
 
 * Hydrologist/Contractor, U.S. Environmental Protection Agency, Office of Research and Development, February 2015-September 2016
   * Tested source code of WASP8 modules using analytical solutions 
-  * Built pipelines to acquire model input data from APIs and convert to organized data structures (R)
+  * Built open-source pipelines to acquire model input data from APIs and convert to organized data structures (R)
   * Modeled fate and transport of sediments, metals, and nanomaterials for case studies and research purposes using HSPF and WASP
-  * Developed pipelines for extracting, evaluating, and visualizing model results for peer-reviewed research using R
+  * Developed open-source pipelines for extracting, evaluating, and visualizing model results for peer-reviewed research using R
 
 * Mudlogger, Morco Geological Services Inc., November 2013-December 2014
   * Collected and logged lithology samples for formation mapping and hydrocarbon analysis 
