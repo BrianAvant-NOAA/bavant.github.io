@@ -17,31 +17,30 @@ Education
 
 Software Skills
 ======
-R, Python, Linux, Bash, SQL, Git, Agile, Jupyter Notebooks, limited JavaScript and C#
+R, Python, Linux, Bash, SQL, Git, Redmine, Agile, ArcGIS, QGIS, Docker, Nginx
 
 Professional Experience
 ======
 * Water Resource Engineer (Software Engineer), Lynker Technologies, National Water Center, June 2019-Present
   * Develop NOAA’s National Flood Inundation Mapping (FIM) model (<a href="https://github.com/NOAA-OWP/cahaba" target="_blank" rel="noopener"><span style="color:blue">cahaba repo</span></a>)
-  * Collaborate in a distributed team environment using Github/Redmine and Agile software development practices
-  * Optimize and scale open-source geospatial model pipelines using distributed systems on Linux using Bash/Python/Docker
-  * Develop custom solutions, tools, and workflows to debug and evaluate predictive models
-  * Calibrate FIM model parameters
-  * Collaborate with external development teams (ESRI Arc Hydro)
-  * Libraries and software used: ArcGIS, QGIS, GDAL/OGR, Pandas/Geopandas, Rasterio, SQLite, Multiprocessing, Arcpy
-  
+  * Collaborate in a distributed team environment using Github and Agile software development practices
+  * Optimize and scale open-source geospatial model pipelines on Linux - Python/Docker
+  * Develop custom solutions, tools, and workflows to debug, test, and evaluate predictive models
+  * Collaborate with external development teams
+  * Libraries: GDAL/OGR, Pandas/Geopandas, Rasterio, SQLite, Multiprocessing, Arcpy, Numpy
+
 * Hydrologist (Software Developer), ORISE Fellowship - U.S. Environmental Protection Agency, Office of Research and Development, October 2016-June 2019
   * Researched nanomaterial fate and transport in various aquatic ecosystems (see publications)
-  * Contributed to the development of Water-quality Analysis Simulation Program (WASP), version 8, Advanced Toxicant module including verification of algorithms (QAQC), technical guides and user’s manual, training workshops, and multiple peer-reviewed research papers
+  * Contributed to the development of Water-quality Analysis Simulation Program (WASP), version 8, Advanced Toxicant module including testing, verification of algorithms, technical guides and user’s manual, training workshops, and multiple peer-reviewed research papers
   * Performed model sensitivity analysis and calibration of fate and transport models
   * Developed hydrologic flow routing algorithms in Python for <a href="https://github.com/quanted/hms" target="_blank" rel="noopener"><span style="color:blue">Hydrologic Micro Services (HMS)</span></a>
   * Developed an R Shiny web <a href="https://github.com/quanted/wq_screen" target="_blank" rel="noopener"><span style="color:blue">application</span></a> to screen water quality samples using criteria based on their location  
 
-* Hydrologist/Contractor, U.S. Environmental Protection Agency, Office of Research and Development, February 2015-September 2016
-  * Tested source code of WASP8 modules using analytical solutions 
-  * Built open-source pipelines to acquire model input data from APIs and convert to organized data structures (R)
-  * Modeled fate and transport of sediments, metals, and nanomaterials for case studies and research purposes using HSPF and WASP
-  * Developed open-source pipelines for extracting, evaluating, and visualizing model results for peer-reviewed research using R
+* Hydrologist, U.S. Environmental Protection Agency, Office of Research and Development, February 2015-September 2016
+  * Tested source code of fate and transport model and verified parameter algorithms
+  * Built pipelines to acquire model input data from APIs and convert to organized data structures (R)
+  * Modeled fate and transport of sediments, metals, and emerging contaminants
+  * Developed open-source pipelines for extracting, evaluating, and visualizing model results (R)
 
 * Mudlogger, Morco Geological Services Inc., November 2013-December 2014
   * Collected and logged lithology samples for formation mapping and hydrocarbon analysis 
