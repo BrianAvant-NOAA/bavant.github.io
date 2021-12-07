@@ -29,6 +29,7 @@ Professional Experience
   * Collaborate with external development teams
   * Libraries: GDAL/OGR, Pandas/Geopandas, Rasterio, SQLite, Multiprocessing, Arcpy, Numpy
 
+
 * Hydrologist (Software Developer), ORISE Fellowship - U.S. Environmental Protection Agency, Office of Research and Development, October 2016-June 2019
   * Researched nanomaterial fate and transport in various aquatic ecosystems (see publications)
   * Contributed to the development of Water-quality Analysis Simulation Program (WASP), version 8, Advanced Toxicant module including testing, verification of algorithms, technical guides and user’s manual, training workshops, and multiple peer-reviewed research papers
@@ -36,34 +37,41 @@ Professional Experience
   * Developed hydrologic flow routing algorithms in Python for <a href="https://github.com/quanted/hms" target="_blank" rel="noopener"><span style="color:blue">Hydrologic Micro Services (HMS)</span></a>
   * Developed an R Shiny web <a href="https://github.com/quanted/wq_screen" target="_blank" rel="noopener"><span style="color:blue">application</span></a> to screen water quality samples using criteria based on their location  
 
+
 * Hydrologist, U.S. Environmental Protection Agency, Office of Research and Development, February 2015-September 2016
   * Tested source code of fate and transport model and verified parameter algorithms
   * Built pipelines to acquire model input data from APIs and convert to organized data structures (R)
   * Modeled fate and transport of sediments, metals, and emerging contaminants
   * Developed open-source pipelines for extracting, evaluating, and visualizing model results (R)
 
+
 * Mudlogger, Morco Geological Services Inc., November 2013-December 2014
   * Collected and logged lithology samples for formation mapping and hydrocarbon analysis 
   * Analyzed chromatographs and logging/drilling software
   * Prepared technical reports and corresponded with operations geologists
 
+
 * Independent Contractor, Headwater Science, LLC, August-September 2013
   * Stream habitat assessments; macroinvertebrate identification and analysis
   * Electrofishing and seine net sampling
+  
   
 * Graduate Research Assistant, Dept. Forestry and Natural Resources & Savannah River National Lab (U.S. Dept. of Energy), University of Georgia, 2010-2013
   * Developed methods for streamflow prediction in ungauged basins using parameter information from calibrated gauged basins with Hydrologic Simulation Program FORTRAN (HSPF)
   * Estimated data and model uncertainty using parameter estimation (PEST) software
   * Applied statistical metrics to quantify streamflow and watershed characteristic similarities
   
+  
 * GIS Specialist, U.S. Forest Service, University of Georgia, 2012 
   * Created GIS layers, maps, and technical reports following EPA’s DRASTIC protocol 
   * Developed and organized the Ground Water Vulnerability and Risk Assessment for U.S. Forest Service Southern Region lands
   * Collaborated with a team to produce GIS products, procedure manuals, and reports
   
+  
 * Research Assistant, Institute for Environmental and Spatial Analysis & Georgia Power, Gainesville State College, 2009-2010
   * Assisted in developing and decision support system (DSS) website using HTML and ArcGIS
   * Created GIS layers displaying watershed descriptions and water quality data in an interactive framework
+  
   
 * Senior Project, Institute for Environmental and Spatial Analysis, Gainesville State College, 2009-2010
   * Developed a land use map of Rocky Creek, GA to identify stream banks lacking riparian buffers
