@@ -6,7 +6,7 @@ excerpt:
 date: 2022-02-18
 venue: 'Water Resources Research'
 paperurl: 'https://www.essoar.org/doi/10.1002/essoar.10510487.3'
-citation: 'Aristizabal, F., Salas, F.R., Petrochenkov, G., Grout, T., Avant, B., Bates, B., Spies, R., Chadwick, N., Wills, Z., Judge, J. (2022 - In Review). &quot;Reducing Horton-Strahler Stream Order Can Enhance Flood Inundation Mapping Skill with Applications for the U.S. National Water Model.&quot; <i>Water Resources Research</i>. 13, 1-12.'
+citation: 'Aristizabal, F., Salas, F.R., Petrochenkov, G., Grout, T., Avant, B., Bates, B., Spies, R., Chadwick, N., Wills, Z., Judge, J. (2022 - In Review). &quot;Reducing Horton-Strahler Stream Order Can Enhance Flood Inundation Mapping Skill with Applications for the U.S. National Water Model.&quot; <i>Water Resources Research</i>.'
 
 
 ---
