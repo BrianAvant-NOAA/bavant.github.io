@@ -17,29 +17,30 @@ Education
 
 Software Skills
 ======
-R, Python, Linux, Bash, SQL, Git, Redmine, Agile, ArcGIS, QGIS, Docker, Nginx
+R, Python, Linux, Bash, SQL, Git, Agile, ArcGIS, QGIS, Docker, JupyterLab
 
 Professional Experience
 ======
-* Water Resource Engineer (Software Engineer), Lynker Technologies, National Water Center, June 2019-Present
-  * Develop NOAA’s National Flood Inundation Mapping (FIM) model (<a href="https://github.com/NOAA-OWP/cahaba" target="_blank" rel="noopener"><span style="color:blue">cahaba repo</span></a>)
+* Software Engineer, Lynker Technologies, National Water Center, June 2019-Present
+  * Develop national scale geospatial models (graph/array/linked list ds) for hydrologic predictions (<a href="https://github.com/NOAA-OWP/cahaba" target="_blank" rel="noopener"><span style="color:blue">cahaba repo</span></a>)
   * Collaborate in a distributed team environment using Github and Agile software development practices
-  * Optimize and scale open-source geospatial model pipelines on Linux - Python/Docker
+  * Optimize and scale open-source geospatial model pipelines on Linux/Windows - Python/Docker
   * Develop custom solutions, tools, and workflows to debug, test, and evaluate predictive models
   * Collaborate with external development teams
   * Libraries: GDAL/OGR, Pandas/Geopandas, Rasterio, SQLite, Multiprocessing, Arcpy, Numpy
 
 
-* Hydrologist (Software Developer), ORISE Fellowship - U.S. Environmental Protection Agency, Office of Research and Development, October 2016-June 2019
-  * Researched nanomaterial fate and transport in various aquatic ecosystems (see publications)
-  * Contributed to the development of Water-quality Analysis Simulation Program (WASP), version 8, Advanced Toxicant module including testing, verification of algorithms, technical guides and user’s manual, training workshops, and multiple peer-reviewed research papers
+* Software Developer/Hydrologist, ORISE Fellowship - U.S. Environmental Protection Agency, Office of Research and Development, October 2016-June 2019
+  * Research on emerging contaminants using predictive modeling (4 peer-reviewed research papers)
+  * Developer fate and transport model including testing and algorithm verification
+  * Communication through technical guides, user’s manual, and training workshops
   * Performed model sensitivity analysis and calibration of fate and transport models
-  * Developed hydrologic flow routing algorithms in Python for <a href="https://github.com/quanted/hms" target="_blank" rel="noopener"><span style="color:blue">Hydrologic Micro Services (HMS)</span></a>
-  * Developed an R Shiny web <a href="https://github.com/quanted/wq_screen" target="_blank" rel="noopener"><span style="color:blue">application</span></a> to screen water quality samples using criteria based on their location  
+  * Developed hydrologic flow routing algorithms in Python for for microservices web app <a href="https://github.com/quanted/hms" target="_blank" rel="noopener"><span style="color:blue">Hydrologic Micro Services (HMS)</span></a>
+  * Developed an R Shiny web <a href="https://github.com/quanted/wq_screen" target="_blank" rel="noopener"><span style="color:blue">web app</span></a> to evaluate and visualize 100k+ water samples  
 
 
-* Hydrologist, U.S. Environmental Protection Agency, Office of Research and Development, February 2015-September 2016
-  * Tested source code of fate and transport model and verified parameter algorithms
+* Data Scientist/Hydrologist, U.S. Environmental Protection Agency, Office of Research and Development, February 2015-September 2016
+  * QA for source code of fate and transport model 
   * Built pipelines to acquire model input data from APIs and convert to organized data structures (R)
   * Modeled fate and transport of sediments, metals, and emerging contaminants
   * Developed open-source pipelines for extracting, evaluating, and visualizing model results (R)
@@ -69,8 +70,7 @@ Professional Experience
   
   
 * Research Assistant, Institute for Environmental and Spatial Analysis & Georgia Power, Gainesville State College, 2009-2010
-  * Assisted in developing and decision support system (DSS) website using HTML and ArcGIS
-  * Created GIS layers displaying watershed descriptions and water quality data in an interactive framework
+  * Developed interactive GIS web app to communicate watershed water quality data (HTML/ArcGIS)
   
   
 * Senior Project, Institute for Environmental and Spatial Analysis, Gainesville State College, 2009-2010
@@ -80,7 +80,7 @@ Professional Experience
 Awards
 ======
 * EPA Gold Medal for Scientific Excellence (Gold King Mine Report) - 2017
-* EPA Scientific and Technological Achievement Award Nominee - 2021 (Pending Results) 
+* EPA Scientific and Technological Achievement Award Nominee - 2021
 
 Journal Publications
 ======
