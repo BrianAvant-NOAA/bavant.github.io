@@ -22,7 +22,7 @@ R, Python, Linux, Bash, SQL, Git, Agile, ArcGIS, QGIS, Docker, JupyterLab
 Professional Experience
 ======
 * Software Engineer, Lynker Technologies, National Water Center, June 2019-Present
-  * Develop national scale geospatial models (graph/array/linked list ds) for hydrologic predictions (<a href="https://github.com/NOAA-OWP/cahaba" target="_blank" rel="noopener"><span style="color:blue">cahaba repo</span></a>)
+  * Develop national scale geospatial models for hydrologic predictions (<a href="https://github.com/NOAA-OWP/cahaba" target="_blank" rel="noopener"><span style="color:blue">cahaba repo</span></a>)
   * Collaborate in a distributed team environment using Github and Agile software development practices
   * Optimize and scale open-source geospatial model pipelines on Linux/Windows - Python/Docker
   * Develop custom solutions, tools, and workflows to debug, test, and evaluate predictive models
