@@ -58,7 +58,7 @@ Professional Experience
   
   
 * Graduate Research Assistant, Dept. Forestry and Natural Resources & Savannah River National Lab (U.S. Dept. of Energy), University of Georgia, 2010-2013
-  * Developed methods for streamflow prediction in ungauged basins using parameter information from calibrated gauged basins with Hydrologic Simulation Program FORTRAN (HSPF)
+  * Developed methods for streamflow prediction in ungaged basins using parameter information from calibrated gaged basins with Hydrologic Simulation Program FORTRAN (HSPF)
   * Estimated data and model uncertainty using parameter estimation (PEST) software
   * Applied statistical metrics to quantify streamflow and watershed characteristic similarities
   
